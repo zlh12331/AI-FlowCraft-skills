@@ -19,7 +19,8 @@
     <a href="#quick-start">Quick Start</a> ·
     <a href="#architecture">Architecture</a> ·
     <a href="#comparison">Comparison</a> ·
-    <a href="#faq">FAQ</a>
+    <a href="#faq">FAQ</a> ·
+    <a href="#Star History">Star History</a>
   </p>
   <p align="center">
     English | <a href="README.zh.md">中文</a>
@@ -426,7 +427,7 @@ Depends on complexity:
 ## Star History
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=你的GitHub用户名/AI-FlowCraft&type=Date" alt="Star History Chart" width="600" />
+  <img src="https://api.star-history.com/svg?repos=zlh12331/AI-FlowCraft&type=Date" alt="Star History Chart" width="600" />
 </p>
 
 ---
