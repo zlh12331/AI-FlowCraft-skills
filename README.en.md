@@ -426,9 +426,13 @@ Depends on complexity:
 
 ## Star History
 
-<p align="center">
-  <img src="https://api.star-history.com/svg?repos=zlh12331/AI-FlowCraft&type=Date" alt="Star History Chart" width="600" />
-</p>
+<a href="https://www.star-history.com/?repos=zlh12331%2FAI-FlowCraft&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zlh12331/AI-FlowCraft&type=timeline&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zlh12331/AI-FlowCraft&type=timeline&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zlh12331/AI-FlowCraft&type=timeline&logscale&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
