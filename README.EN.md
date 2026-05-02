@@ -23,7 +23,7 @@
     <a href="#Star History">Star History</a>
   </p>
   <p align="center">
-    English | <a href="README.zh.md">中文</a>
+    English | <a href="README.md">中文</a>
   </p>
 </p>
 
