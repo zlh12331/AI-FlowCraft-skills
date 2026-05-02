@@ -426,7 +426,7 @@ ai-flowcraft/
 ## Star History
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=你的GitHub用户名/AI-FlowCraft&type=Date" alt="Star History Chart" width="600" />
+  <img src="https://api.star-history.com/svg?repos=zlh12331/AI-FlowCraft&type=Date" alt="Star History Chart" width="600" />
 </p>
 
 ---
