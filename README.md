@@ -20,6 +20,7 @@
     <a href="#architecture">设计思路</a> ·
     <a href="#comparison">竞品对比</a> ·
     <a href="#faq">FAQ</a>
+    <a href="#Star History">star history</a>
   </p>
   <p align="center">
     <a href="README.en.md">English</a> | 中文
