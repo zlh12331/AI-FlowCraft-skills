@@ -2,6 +2,21 @@
 
 All notable changes to AI-FlowCraft will be documented in this file.
 
+## [V1.1.1] - 2026-05-12
+
+### Fixed
+
+#### YAML Parsing Issues
+- **Removed UTF-8 BOM from all SKILL.md files**: Removed the BOM (Byte Order Mark) characters (EF BB BF) that were causing YAML parsers to fail recognizing the opening `---` delimiter. This ensures all Skills are properly registered in the session's available skills list.
+- **Fixed Chinese quotation marks in description fields**: Replaced Chinese-style quotation marks `" "` (U+201C / U+201D) with standard ASCII quotes in YAML description strings to prevent premature string termination during YAML parsing.
+
+### Technical Details
+- Problem: Skills were not being registered in the current session's available skills list
+- Root cause: UTF-8 BOM headers in skill files and Chinese quotation marks in YAML strings
+- BOM characters are invisible to visual inspection but break YAML parsing
+
+---
+
 ## [V1.1.0] - 2026-05-12
 
 ### Added
@@ -54,10 +69,6 @@ All notable changes to AI-FlowCraft will be documented in this file.
 - Updated project structure diagram to include V1 version directory
 - Updated file statistics table format
 
-### Fixed
-- Improved consistency in Skill documentation structure
-- Better guidance for users on when to use each Skill
-
 ---
 
 ## [V1.0.1] - 2026-05-03
@@ -91,5 +102,6 @@ All notable changes to AI-FlowCraft will be documented in this file.
 
 | Version | Date | Description |
 |---------|------|-------------|
+| V1.1.1 | 2026-05-12 | Fixed YAML parsing issues (BOM and Chinese quotes) |
 | V1.1.0 | 2026-05-12 | Directory restructuring, SKILL.md format optimization, new features |
 | V1.0.1 | 2026-05-03 | Initial release with 28 Skills |
