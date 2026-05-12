@@ -4,7 +4,7 @@
     <strong>From a vague idea to a running full-stack website — 28 AI skills, seamlessly connected</strong>
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
+    <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Version" />
     <img src="https://img.shields.io/badge/skills-28-green" alt="Skills" />
     <img src="https://img.shields.io/badge/templates-24-cyan" alt="Templates" />
     <img src="https://img.shields.io/badge/test_scripts-25-purple" alt="Test Scripts" />
