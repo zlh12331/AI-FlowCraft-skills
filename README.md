@@ -4,7 +4,7 @@
     <strong>从一句话想法到可运行的全栈网站，28 个 AI 技能无缝衔接每一步</strong>
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Version" />
+    <img src="https://img.shields.io/badge/version-1.1.1-blue" alt="Version" />
     <img src="https://img.shields.io/badge/skills-28-green" alt="Skills" />
     <img src="https://img.shields.io/badge/templates-24-cyan" alt="Templates" />
     <img src="https://img.shields.io/badge/test_scripts-25-purple" alt="Test Scripts" />
