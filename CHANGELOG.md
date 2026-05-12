@@ -14,7 +14,6 @@ All notable changes to AI-FlowCraft will be documented in this file.
   - `e2e-test-examples.md` (Skill 25)
   - `system-test-examples.md` (Skill 26)
 - `CHANGELOG.md` in `resources/` directory of Skill 26-test-system
-- `.zip` archive files for each Skill (28 total)
 
 #### New Sections in SKILL.md
 - **Usage Scenarios** section: Defines when to use each Skill

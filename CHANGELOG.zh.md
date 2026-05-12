@@ -14,7 +14,6 @@
   - `e2e-test-examples.md`（Skill 25）
   - `system-test-examples.md`（Skill 26）
 - Skill 26-test-system 的 `resources/` 目录新增 `CHANGELOG.md`
-- 每个 Skill 目录下新增对应的 `.zip` 压缩包（共 28 个）
 
 #### SKILL.md 新增章节
 - **使用场景**章节：定义每个 Skill 的适用场景
