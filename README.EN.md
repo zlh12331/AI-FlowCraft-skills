@@ -55,7 +55,7 @@ When building websites with AI, the root cause of failure is often **not that th
 
 It breaks down the entire process from "vague idea" to "tested delivery" into **28 specialized Skills**, each with a clear role, responsibilities, inputs/outputs, and quality baselines. Think of it as a virtual software development team — requirements analyst, architect, frontend/backend engineers, test engineers — each doing their job in a coordinated workflow.
 
-**Recommended for use with Trae MTC (currently in closed beta). Other tools (Claude Code, Codex, etc.) have not been tested yet.**
+**Recommended for use with Trae Solo software.**
 
 ```
 A vague idea
@@ -193,7 +193,7 @@ AI-FlowCraft adapts to multiple tech stacks through a "scope annotation" mechani
 
 ### Prerequisites
 
-- An AI coding assistant (Trae MTC)
+- An AI coding assistant (Trae Solo)
 - Import this repository's Skill files into your AI workspace
 - The `specs/` folder and its 4 files (`GUARDRAILS.md`, `PROJECT-CONTEXT.md`, `validate_consistency.py`, `report_config.py`) must exist before starting a project
 
