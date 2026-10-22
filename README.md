@@ -27,6 +27,8 @@
   </p>
 </p>
 
+不想维护了，去看看别的项目/I don’t want to maintain it anymore; please look at other projects.
+
 ---
 
 ## Why · 为什么需要 AI-FlowCraft
